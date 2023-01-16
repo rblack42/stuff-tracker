@@ -1,0 +1,4 @@
+jupyter-book
+pytest
+git+https://github.com/mkrphys/ipython-tikzmagic.git
+

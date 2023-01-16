@@ -1,0 +1,22 @@
+# Mac
+.DS_Store
+
+# Vim
+*~
+*.swp
+
+# Python
+.direnv
+__pycache__
+*.py[cod]
+
+# Jupyter
+**/.ipynb_checkpoints
+
+# Sphinx
+**_build
+
+# Fortran
+*.o
+*.so
+unpublished
