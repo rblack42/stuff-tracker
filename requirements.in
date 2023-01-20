@@ -1,4 +1,14 @@
+# Project deps
+flask
 jupyter-book
-pytest
 git+https://github.com/mkrphys/ipython-tikzmagic.git
 
+# PyTest reqyuirements
+pytest
+pytest-cov
+coverage
+coveralls
+
+# Python style
+black
+flake8

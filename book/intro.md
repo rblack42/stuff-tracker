@@ -1,0 +1,4 @@
+# Stuff Tracker
+
+```{tableofcontents}
+```

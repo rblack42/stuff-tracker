@@ -4,6 +4,10 @@ Stuff Tracker
 :Email: roie.black@gmail.com
 :Docs: https://rblack42.github.io/stuff-tracker
 
+.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+    :target: https://github.com/psf/black
+
+
 This project was created to help catalog all of my personal and professional
 "stuff". At present, it is set to track books, and physical gadgets found in my
 home and shop. All of this stuff is cataloged in different categories to aid in

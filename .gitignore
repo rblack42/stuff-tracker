@@ -9,6 +9,7 @@
 .direnv
 __pycache__
 *.py[cod]
+.env
 
 # Jupyter
 **/.ipynb_checkpoints
