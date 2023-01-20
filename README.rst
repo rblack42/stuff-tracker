@@ -4,6 +4,9 @@ Stuff Tracker
 :Email: roie.black@gmail.com
 :Docs: https://rblack42.github.io/stuff-tracker
 
+..  image:: rst/_static/lpp.gif
+    :width: 600
+
 ..  start-badges
 
 .. list-table::
@@ -12,15 +15,11 @@ Stuff Tracker
     * - tests
       - | |github| |coverage| |black|
 
-.. |coverage| image:: https://coveralls.io/repos/github/rblack42/math-magik/badge.svg?branch=main
-    :target: https://coveralls.io/github/rblack42/math-magik?branch=main
+.. |coverage| image:: https://coveralls.io/repos/github/rblack42/stuff-tracker/badge.svg?branch=main
+    :target: https://coveralls.io/github/rblack42/stuff-tracker?branch=master
     :alt: Code Coverage"
 
-..  image:: rst/_static/lpp.gif
-    :align: center
-    :width: 600
-
-.. i|black| image:: https://img.shields.io/badge/code%20style-black-000000.svg
+..  |black| image:: https://img.shields.io/badge/code%20style-black-000000.svg
     :target: https://github.com/psf/black
 
 .. end-badges
