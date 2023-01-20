@@ -4,8 +4,26 @@ Stuff Tracker
 :Email: roie.black@gmail.com
 :Docs: https://rblack42.github.io/stuff-tracker
 
-.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+..  start-badges
+
+.. list-table::
+    :stub-columns: 1
+
+    * - tests
+      - | |github| |coverage| |black|
+
+.. |coverage| image:: https://coveralls.io/repos/github/rblack42/math-magik/badge.svg?branch=main
+    :target: https://coveralls.io/github/rblack42/math-magik?branch=main
+    :alt: Code Coverage"
+
+..  image:: rst/_static/lpp.gif
+    :align: center
+    :width: 600
+
+.. i|black| image:: https://img.shields.io/badge/code%20style-black-000000.svg
     :target: https://github.com/psf/black
+
+.. end-badges
 
 
 This project was created to help catalog all of my personal and professional
