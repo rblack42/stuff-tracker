@@ -2,7 +2,7 @@ import os
 
 from flask import Flask
 
-from catalog.__version__ import get_version
+from stuff_tracker.__version__ import get_version
 
 
 def create_app(test_config=None):

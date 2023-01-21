@@ -15,6 +15,10 @@ Stuff Tracker
     * - tests
       - | |github| |coverage| |black|
 
+.. |github| image:: https://github.com/rblack42/stuff-tracker/actions/workflows    /python-app.yml/badge.svg
+    :alt: Github Workflows
+    :target: https://github.com/rblack42/stuff-tracker
+
 .. |coverage| image:: https://coveralls.io/repos/github/rblack42/stuff-tracker/badge.svg?branch=main
     :target: https://coveralls.io/github/rblack42/stuff-tracker?branch=master
     :alt: Code Coverage"

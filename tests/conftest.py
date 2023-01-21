@@ -1,5 +1,5 @@
 import pytest
-from catalog import create_app
+from stuff_tracker import create_app
 
 
 @pytest.fixture()

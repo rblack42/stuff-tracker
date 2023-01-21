@@ -1,6 +1,6 @@
 import os
 
-from catalog.__version__ import get_version
+from stuff_tracker.__version__ import get_version
 
 
 def test_version():

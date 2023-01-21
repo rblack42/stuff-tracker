@@ -2,6 +2,7 @@
 include = catalog/*
 omit = *test_*
 branch = True
+disable_warnings=include-ignored
 
 [report]
 exclude_lines =
